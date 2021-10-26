@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        .div22 {
+            background-color: rgba(0, 0, 0, 0.788);
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0; 
+            z-index: 100;
+          }
+          .div22 ul {
+            float: right;
+            margin-right: 100px;
+          }
+          .div22 ul li {
+            
+            line-height: 80px;
+            margin: 0 5px;
+          }
+          .menu li a {
+            color: rgb(255, 255, 255);
+          }
+          #zirmenu li a {
+            color: rgb(255, 255, 255);
+          }
+          #zirmenu li:hover a {
+            color: rgb(0, 0, 0);
+          }
+          .div22 a:hover {
+            border-bottom: 1px solid white;
+            transition: all 0.4s ease-out;
+          }
+          a {
+            text-decoration: none;
+          }
+          li, ul {
+            list-style: none;
+            box-sizing: border-box;
+          }
+          .a2 {
+            text-decoration: none;
+            padding: 10px;
+          }
+          label.logo {
+            color: rgb(255, 255, 255);
+            font-size: 1.5rem;
+            line-height: 80px;
+            padding: 10px 30px;
+            margin: 50px 0 0 100px;
+            border: 2px solid white;
+          }
+          #zirmenu {
+          position: absolute;
+          top: 100%;
+          left: 0;
+          z-index: 100;
+          display: none;
+          float: right;
+          min-width: 160px;
+          padding: 5px 0;
+          font-size: 13px;
+          text-align: center;
+          list-style: none;
+          background-color: rgba(0, 0, 0, 0.788);
+          border: 1px solid #ccc;
+          border: 1px solid rgba(0,0,0,.15);
+          -webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+          box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+        }
+        #zirmenu li:hover {
+          background: white;
+          transition: all 0.6s ease-out;
+        }
+        #zirmenu li a:hover {
+          color: black;
+          border-bottom: 1px solid black;
+        }
+        #zirmenu li {
+          margin: 0;
+        }
+        #nav1 ul {
+          list-style:none;
+          position:relative;
+          float:right;
+          margin:0;
+          padding:0
+        }
+        #nav1 ul li {
+          position:relative;
+          float:right;
+        }
+        #nav1 ul ul {
+          display:none;
+          position:absolute;
+        }
+        #nav1 ul ul li {
+          float:none;
+        }
+        #nav1 ul ul a {
+          line-height:100%;
+        }
+        #nav1 ul li:hover > ul {
+          display:block
+        }
+        .div1 {
+            background-image: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/bg1.jpg');
+            background-size: cover;
+            background-attachment: scroll;
+            background-repeat: repeat-y;
+            background-position: center top;
+            height: 320px;
+        }
+        .div2 {
+            height: 30px;
+            background: #e6e6e6;
+            padding-top: 10px;
+        }
+        a {
+            text-decoration: none;
+            color: #999;
+            font-size: 14px;
+            letter-spacing: 2px;
+        }
+        .aa {
+            margin-left: 200px;  
+        }
+        .div2 a {
+            font-weight: 700;
+        }
+        .div2 a:hover {
+            color: #777;
+            border-bottom: 1px solid black;
+            transition: all 0.4s ease-out;
+        }
+
+        .div5 {
+            position: relative;
+            padding: 20px 0 20px;
+          }
+          .div6 {
+            position: relative;
+            width: 100%;
+            padding: 0 15px;
+            margin: 0 auto;
+          }
+          .div7 {
+            text-align: center;
+            padding: 50px 0 20px 0;
+            font-size: 1.4em;
+            font-weight: 300;
+            letter-spacing: 2px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center bottom no-repeat; 
+          }
+          @keyframes ani6 {
+            from {transform:translate(0px, 100px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation5 {
+            animation:ani6 2s;
+            animation-name: ani6;
+          }
+          .p1 {
+            text-align: center;
+            padding: 10px 0 10px 0;
+            font-size: 25px;
+            letter-spacing: 2px;
+          }
+          .menu2 {
+            display: block;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+          }
+          .menu2 li {
+            display: inline-block;
+            margin: 50px 5px 0 5px;
+            height: 100px;
+            float: left;
+          }
+          .menu2 li a {
+              border: 2px solid black;
+              padding: 10px;
+              font-size: 12px;
+              color: black;
+              font-weight: 700;
+          }
+          .menu2 li a:hover {
+              background: black;
+              color: white;
+              transition: all 0.3s ease-in-out;
+          }
+          .div8 {
+              position: absolute;
+              top: 80%;
+              left: 50%;
+              transform: translate(-50%, -50%);  
+            }
+            table {
+              height: 800px;
+              position: absolute;
+              top: 90%;
+              margin: 0 10px;
+              width: 1500px;
+            }
+
+            img {
+              width: 100%; 
+            }
+            .column {
+	            padding: 0;
+            }
+            .column div {
+	            position: relative;
+	            float: left;
+            }
+            figure {
+	            width: 100%;
+	            margin: 0;
+	            padding: 0;
+	            background: #fff;
+	            overflow: hidden;
+            }
+            .hover1 figure img {
+	            -webkit-filter: grayscale(100%);
+	            filter: grayscale(100%);
+	            -webkit-transition: .3s ease-in-out;
+	            transition: .3s ease-in-out;
+            }
+            .hover1 figure:hover img {
+	            -webkit-filter: grayscale(0);
+	            filter: grayscale(0);
+            }                    
+
+
+            
+
+
+            .div60 {
+              height: 35vh;
+              background: #111;
+              color: #999;
+              line-height: 1.6;
+              min-width: 300px;
+              position: absolute;
+              padding: 60px 0 30px 150px;
+              top: 200%;
+            }
+          .div61 {
+            float: left;
+            width: 22%;
+            position: relative;
+            padding: 0 15px;
+            margin: 0;
+          }
+          .div62 {
+            margin: 0 0 40px 0;
+          }
+          .end {
+            display: block;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+          }
+          .end li {
+            display: inline-block;
+            margin: 30px 2px;
+            width: 35px;
+            height: 35px;
+          }
+          .end li a {
+            color: #aaa;
+            font-size: 10px;
+            text-align: center;
+            border: 1px solid #858585;
+            padding: 5px 6px;
+            
+          }
+          .end li a:hover {
+            transition: all 0.4s ease-out;
+            border: 1px solid white;
+            color: white;
+          }
+          .end2 {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            font-family: 'Times New Roman', Times, serif;
+          }
+          .end2 li {
+            display: block;
+          }
+          .end2 li a {
+            text-decoration: none;
+            color: #999;
+            font-size: 15px;
+          }
+          .end2 li a:hover {
+            border-bottom: 1px solid white;
+            color: white;
+            transition: all 0.3s ease-out;
+          }
+          .div63 {
+            margin: 0 0 15px 0;
+            display: block;
+            font-family: 'Times New Roman', Times, serif;
+          }
+          .div63 i {
+            margin-right: 20px;
+            font-size: 20px;
+            display: inline-block;
+          }
+          .div63:hover {
+            color: white;
+          }
+          .end3 {
+            padding: 0;
+            margin: 0;
+          }
+          .end3 li {
+            font-family: 'Times New Roman', Times, serif;
+            padding: 1px 0;
+            color: white;
+          }
+          .end3 li a:hover {
+            color: white;
+            border-bottom: 1px solid white;
+            transition: all 0.4s ease-out;
+          }
+          .p31 {
+            font-size: 16px;
+            letter-spacing: 2px;
+            margin: 0;
+            color: white;
+            padding-bottom: 30px;
+          }
+          .p32 {
+            font-size: 13px;
+            display: inline-block;
+            margin: 0;
+          }
+          .logo2 {
+          border: 2px solid white;
+          display: inline;
+          padding: 10px 20px;
+          color: white;
+          }
+          .a5 {
+          color: black;
+          }
+
+
+
+
+
+            
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/e1585a757c.js" crossorigin="anonymous"></script>
+    <title>GALLERY</title>
+</head>
+<body>
+    <div class="div22" id="nav1"> 
+        <label class="logo">G R I D G U M</label>
+
+
+        <ul class="menu">
+            <li style="margin-right: 50px;" class="li1"><a class="a2" href="#">Contact</a></li>
+            <li class="li1"><a class="a2" href="#">Blog</a></li>
+            <li class="li2"><a class="a2" href="GALLERY.html" data-toggle="dropdown" aria-expanded="false">Gallery</a></li>
+            <li class="li1"><a class="a2" href="#">Section</a>
+            
+
+                <ul id="zirmenu">
+                    <li><a class="a3" href="#">Design Department</a></li>
+                    <li><a class="a3" href="#">Features</a></li>
+                    <li><a class="a3" href="#">Difference</a></li>
+                    <li><a class="a3" href="#">Pricelist</a></li>
+                    <li><a class="a3" href="#">Mock-up</a></li>
+                </ul>
+            </li>
+
+
+            </li>
+            <li class="li1"><a class="a2" href="#">Services</a>
+            </li>
+            <li class="li1"><a class="a2" href="#">About Us</a></li>
+            <li class="li1"><a class="a2" href="nimterm.html">Home</a>
+                <ul id="zirmenu">
+                    <li><a class="a3" href="#">Package 1</a></li>
+                    <li><a class="a3" href="#">Package 2</a></li>
+                </ul>
+            </li>
+          </li>
+        </ul>
+    </div>
+    <div class="div1"></div>
+
+    <div class="div2">
+        <a class="aa a5" href="nimterm.html">HOME</a>
+        <a class="a5" href="GALLERY.html">/ GALLERY</a>
+    </div>
+
+
+    <div class="div5">
+        <div class="div6">
+          <div class="div7" id="animation5">
+            <p class="p1">CREATIVE MOCK-UP DESIGN GALLERY</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+
+    <div class="div8">
+      <ul class="menu2">
+        <li>
+          <a href="#">ALL</a>
+        </li>
+        <li>
+          <a href="#">BLACK & GOLD</a>
+        </li>
+        <li>
+          <a href="#">CLEAR MOCKUP</a>
+        </li>
+        <li>
+          <a href="#">SAME STYLE</a>
+        </li>
+        <li>
+          <a href="#">DIFFRENT STYLE</a>
+        </li>
+      </ul>
+    </div>
+
+
+    <table>
+      <tr>
+        <td>
+          <div class="hover1 column">
+            <a href="#">
+              <figure>
+                <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery01_over.jpg">
+              </figure>
+            </a>
+          </div>  
+        </td>
+
+        <td>
+          <div class="hover1 column">
+            <a href="#">
+              <figure>
+                <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery02_over.jpg">
+              </figure>
+            </a>
+          </div>  
+        </td>
+
+        <td>
+          <div class="hover1 column">
+            <a href="#">
+              <figure>
+                <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery03_over.jpg">
+              </figure>
+            </a>
+          </div>  
+        </td>
+
+        <td>
+          <div class="hover1 column">
+            <a href="#">
+              <figure>
+                <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery04_over.jpg">
+              </figure>
+            </a>
+          </div>  
+        </td>
+      </tr>
+
+      <td>
+        <div class="hover1 column">
+          <a href="#">
+            <figure>
+              <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery05_over.jpg">
+            </figure>
+          </a>
+        </div>  
+      </td>
+
+      <td>
+        <div class="hover1 column">
+          <a href="#">
+            <figure>
+              <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery06_over.jpg">
+            </figure>
+          </a>
+        </div>  
+      </td>
+
+      <td>
+        <div class="hover1 column">
+          <a href="#">
+            <figure>
+              <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery07_over.jpg">
+            </figure>
+          </a>
+        </div>  
+      </td>
+
+      <td>
+        <div class="hover1 column">
+          <a href="#">
+            <figure>
+              <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery08_over.jpg">
+            </figure>
+          </a>
+        </div>  
+      </td>
+      </tr>
+
+      <tr>
+        <td>
+          <div class="hover1 column">
+            <a href="#">
+              <figure>
+                <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery09_over.jpg">
+              </figure>
+            </a>
+          </div>  
+        </td>
+
+        <td>
+          <div class="hover1 column">
+            <a href="#">
+              <figure>
+                <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery10_over.jpg">
+              </figure>
+            </a>
+          </div>  
+        </td>
+
+        <td>
+          <div class="hover1 column">
+            <a href="#">
+              <figure>
+                <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery11_over.jpg">
+              </figure>
+            </a>
+          </div>  
+        </td>
+
+        <td>
+          <div class="hover1 column">
+            <a href="#">
+              <figure>
+                <img src="https://template-preview.com/bootstrap-templates/black-white/Black-version/images/gallery12_over.jpg">
+              </figure>
+            </a>
+          </div>  
+        </td>
+      </tr>
+    </table>
+
+
+
+
+    <div class="div60">
+      <div class="div61">
+        <div class="div62">
+          <div class="logo2">G R I D G U M</div>
+        </div>
+        <p class="p30">Lorem ipsum dolor site amet concateur un prado cargo, lorem ipsum dolor site amet concateur un prado cargo. All bravo versache un tiro balensiaga. Bootstrap templates website rresponsive themes.</p>
+        <ul class="end">
+          <li>
+            <a href="#">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="fa fa-instagram"></i>
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="div61">
+        <p class="p31">FOOTER MENU</p>
+        <ul class="end2">
+          <li>
+            <a href="#">Terms & Conditions</a>
+          </li>
+          <li>
+            <a href="#">About us</a>
+          </li>
+          <li>
+            <a href="#">Online Support</a>
+          </li>
+          <li>
+            <a href="#">Our Blog</a>
+          </li>
+          <li>
+            <a href="#">Product Gallery</a>
+          </li>
+          <li>
+            <a href="#">Contact us</a>
+          </li>
+        </ul>
+      </div>
+      <div class="div61">
+        <p class="p31">COMPANY ADDRESS</p>
+
+
+
+        <div class="div63">
+          <i class="fa fa-map-o"></i>
+          <p class="p32">39., Fargam str. <br> 554304., Tehran, IRAN.</p>
+        </div>
+
+        <div class="div63">  
+          <i class="fa fa-phone"></i>
+          <p class="p32">Phone: +1 (917) 3386810</p>
+        </div> 
+
+        <div class="div63"> 
+          <i class="fa fa-envelope-o" ></i>
+          <p class="p32">support@test-demo.com</p>
+        </div>
+
+        <div class="div63">   
+          <i class="fa fa-print" ></i>
+          <p class="p32">FAX: +1 (917) 3386810</p>
+        </div>
+      </div>
+
+
+
+
+      <div class="div61">
+        <p class="p31">POPULAR PRODUCTS</p>
+        <ul class="end3">
+          <li>
+            <a href="#">Bootstrap responsive themes</a>
+          </li>
+          <li>
+            <a href="#">Black label - Mock-up</a>
+          </li>
+          <li>
+            <a href="#">HTML5 templates</a>
+          </li>
+          <li>
+            <a href="#">Wordpress themes</a>
+          </li>
+          <li>
+            <a href="#">Joomla responsive templates</a>
+          </li>
+          <li>
+            <a href="#">Ecommerce templates</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,1650 @@
+          body {
+            padding: 0;
+            margin: 0;
+          }
+          
+
+          /*content*/
+
+
+
+
+          h1 {
+            font-size: 4em;
+          }
+          .font {
+            padding: 20px 0;
+            font-size: 1.1em;
+          }
+          .p2 {
+            text-align: center;
+            padding: 100px 0 20px 0;
+            font-size: 1.4em;
+            font-weight: 300;
+            letter-spacing: 2px;
+          }
+          .p3 {
+            font-size: 12px;
+            padding: 10px 0;
+            letter-spacing: 1.5px;
+            color: gray;
+          }
+          .p4 {
+            color: gray;
+            text-align: justify;
+            text-align-last: center;
+            font-size: 13px;
+          }
+          .p5 {
+            text-align: center;
+            padding: 10px 0 10px 0;
+            font-size: 20px;
+            font-weight: 200;
+            letter-spacing: 2px;
+          }
+          .p6 {
+            text-align: center;
+            font-size: 13px;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+            padding: 20px 0;
+            color: gray;
+          }
+          
+          h2 {
+            font-size: 1em;
+            font-weight: 200;
+            letter-spacing: 2px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand3.png') left bottom no-repeat;
+            padding: 20px 0px 15px 0;
+            float: left;
+          }
+          
+          .p8 {
+            text-align: center;
+            padding: 100px 0 20px 0;
+            font-size: 20px;
+            font-weight: 300;
+            letter-spacing: 2px;
+          }
+          .p9 {
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand4.png') bottom left no-repeat;
+            letter-spacing: 2px;
+            margin: 40px 500px 0 60px;
+            padding-bottom: 30px;
+            font-size: 1.4em;
+            font-weight: 500;
+          }
+          
+          .p10 {
+            letter-spacing: 2px;
+            font-size: 12px;
+            padding: 5px 20px;
+          }
+          .p11 {
+            padding: 0 20px 5px 20px;
+            font-size: 11px;
+            letter-spacing: 1px;
+            color: rgb(94, 94, 94);
+          }
+          .p12 {
+            text-align: right;
+            color: gray;
+            letter-spacing: 2px;
+            padding: 10px 0;
+            font-size: 12px;
+          }
+          .p13 {
+            text-align: right;
+            color: gray;
+          }
+          .p14 {
+            font-size: 25px;
+            text-align: right;
+          }
+          .p15 {
+            color: gray;
+            letter-spacing: 2px;
+            padding: 10px 0;
+            font-size: 12px;
+          }
+          .p13, .p16  {
+            color: gray;
+            font-size: 13px;
+          }
+          .p17 {
+            text-align: center;
+            padding: 10px 0 10px 0;
+            font-size: 20px;
+            font-weight: 200;
+            letter-spacing: 2px;
+          }
+          .p18 {
+            text-align: center;
+            font-size: 13px;
+            letter-spacing: 1px;
+            margin: 10px 350px 15px 350px;
+            padding: 20px 0;
+            color: gray;
+            line-height: 25px;
+          }
+          .p19 {
+            font-size: 30px;
+          }
+          .p20 {
+            text-align: center;
+            padding: 10px 0 10px 0;
+            font-size: 20px;
+            font-weight: 600;
+            letter-spacing: 2px;
+          }
+          .p22 {
+            font-size: 25px;
+            color: rgb(80, 80, 80);
+            margin: 20px 0 10px 0;
+          }
+          .p21 {
+            padding: 10px 0 20px 0;
+            letter-spacing: 2px;
+            color: rgb(83, 83, 83);
+            font-size: 17px;
+          }
+          .p23 {
+            color: #999;
+            font-size: 13px;
+            padding: 10px 0 20px 0;
+            border-bottom: 1px solid #eee;
+          }
+          .p24 {
+            text-align: center;
+            padding: 10px 0 10px 0;
+            font-size: 20px;
+            font-weight: 700;
+            letter-spacing: 2px;
+          }
+          .p25 {
+            text-align: center;
+            font-size: 15px;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+            padding: 20px 0;
+            color: gray;
+          }
+          .p26 {
+            font-size: 15px;
+            color: #5e5e5e;
+            margin: 10px 0 5px 0;
+          }
+          .p27 {
+            font-size: 20px;
+            color: #363636;
+            margin: 10px 0 5px 0;
+            letter-spacing: 1px;
+          }
+          .p28 {
+            color: #6f6f6f;
+            font-size: 13px;
+            margin: 10px 0 5px 0;
+          }
+          .p29 {
+            text-align: center;
+            font-size: 15px;
+            margin: 20px 300px 20px 300px;
+            color: #777;
+            line-height: 30px;
+          }
+          .p30 {
+            font-size: 16px;
+            line-height: 23px;
+            font-family: 'Times New Roman', Times, serif;
+          }
+          .p31 {
+            font-size: 16px;
+            letter-spacing: 2px;
+            margin: 0;
+            color: white;
+            padding-bottom: 30px;
+          }
+          .p32 {
+            font-size: 13px;
+            display: inline-block;
+            margin: 0;
+          }
+          
+
+
+
+
+          /*end content*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          /*animations*/
+
+
+
+          @keyframes ani1 {
+            from {transform:translate(0px, 200px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation {
+            animation:ani1 3s;
+            animation-name: ani1;
+          }
+          @keyframes ani2 {
+            from {transform:translate(-300px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation1 {
+            animation:ani2 3s;
+            animation-name: ani2;
+          }
+
+          @keyframes ani3 {
+            from {transform:translate(0px, 200px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation2 {
+            animation:ani3 3s;
+            animation-name: ani3;
+          }
+
+          @keyframes ani4 {
+            from {transform:translate(300px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation3 {
+            animation:ani4 3s;
+            animation-name: ani4;
+          }
+
+          @keyframes ani5 {
+            from {transform:translate(0px, 300px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation4 {
+            animation:ani5 4s;
+            animation-name: ani5;
+          }
+
+          @keyframes ani6 {
+            from {transform:translate(-300px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation5 {
+            animation:ani6 5s;
+            animation-name: ani6;
+          }
+          @keyframes ani7 {
+            from {transform:translate(0px, 200px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation6 {
+            animation:ani7 6s;
+            animation-name: ani7;
+          }
+          @keyframes ani8 {
+            from {transform:translate(100px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation7 {
+            animation:ani8 7s;
+            animation-name: ani8;
+          }
+          
+          @keyframes ani9 {
+            from {transform:translate(100px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation8 {
+            animation:ani9 8s;
+            animation-name: ani9;
+          }
+          @keyframes ani10 {
+            from {transform:translate(300px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation9 {
+            animation:ani10 12s;
+            animation-name: ani10;
+          }
+          @keyframes ani11 {
+            from {transform:translate(500px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation10 {
+            animation:ani11 16s;
+            animation-name: ani11;
+          }
+
+          @keyframes ani12 {
+            from {transform:translate(-100px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation11 {
+            animation:ani12 8s;
+            animation-name: ani12;
+          }
+          @keyframes ani13 {
+            from {transform:translate(-300px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation12 {
+            animation:ani13 12s;
+            animation-name: ani13;
+          }
+          @keyframes ani14 {
+            from {transform:translate(-500px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation13 {
+            animation:ani14 16s;
+            animation-name: ani14;
+          }
+
+          @keyframes ani15 {
+            from {transform:translate(0px, 300px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation14 {
+            animation:ani15 10s;
+            animation-name: ani15;
+          }
+
+
+          @keyframes ani16 {
+            from {transform:translate(0px, 300px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation15 {
+            animation:ani16 5s;
+            animation-name: ani16;
+          }
+          @keyframes ani17 {
+            from {transform:translate(0px, 300px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation16 {
+            animation:ani17 8s;
+            animation-name: ani17;
+          }
+          @keyframes ani18 {
+            from {transform:translate(0px, 300px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation17 {
+            animation:ani18 11s;
+            animation-name: ani18;
+          }
+          @keyframes ani18 {
+            from {transform:translate(0px, 300px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation18 {
+            animation:ani18 13s;
+            animation-name: ani18;
+          }
+
+          @keyframes ani19 {
+            from {transform:translate(150px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation19 {
+            animation:ani19 10s;
+            animation-name: ani19;
+          }
+          @keyframes ani20 {
+            from {transform:translate(150px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation20 {
+            animation:ani20 13s;
+            animation-name: ani20;
+          }
+
+          .loading.hidden {
+            animation: ani21 5s;
+            animation-fill-mode: forwards;
+          }
+          @keyframes ani21 {
+            100% {
+              opacity: 0;
+              visibility: hidden;
+            }
+          }
+          @keyframes ani21 {
+            from {transform:translate(-300px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation21 {
+            animation:ani21 6s;
+            animation-name: ani21;
+          }
+          @keyframes ani22 {
+            from {transform:translate(300px, 0px)}
+            to   {transform:translate(0px, 0px)}
+          }
+          #animation22 {
+            animation:ani22 6s;
+            animation-name: ani22;
+          }
+
+
+
+
+          /*end animation*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          /*dives*/
+
+
+          .div2 {
+            position: relative;
+            margin: 0 auto;
+          }
+          .div2 .div3 {
+            position: absolute;
+            margin-top: 200px;          
+            color: #fff;
+            width: 100%;
+            padding: 20px 0;
+            text-align: center;
+          }
+          .div11 {
+            position: relative;
+            height: 750px;    
+          }
+          .div22 {
+            background-color: rgba(0, 0, 0, 0.788);
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0; 
+            z-index: 100;
+          }
+          .div22 ul {
+            float: right;
+            margin-right: 100px;
+          }
+          .div22 ul li {
+            
+            line-height: 80px;
+            margin: 0 5px;
+          }
+          .menu li a {
+            color: rgb(255, 255, 255);
+          }
+          #zirmenu li a {
+            color: rgb(255, 255, 255);
+          }
+          #zirmenu li:hover a {
+            color: rgb(0, 0, 0);
+          }
+          .div22 a:hover {
+            border-bottom: 1px solid white;
+            transition: all 0.4s ease-out;
+          }
+          a {
+            text-decoration: none;
+          }
+          li, ul {
+            list-style: none;
+            box-sizing: border-box;
+          }
+          label.logo {
+            color: rgb(255, 255, 255);
+            font-size: 1.5rem;
+            line-height: 80px;
+            padding: 10px 30px;
+            margin: 50px 0 0 100px;
+            border: 2px solid white;
+          }
+          .div4 {
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center bottom no-repeat;
+            padding: 10px 0; 
+          }
+          .div5 {
+            position: relative;
+            background: #f7f8f9;
+            padding: 20px 0 20px;
+          }
+          .div6 {
+            position: relative;
+            width: 100%;
+            padding: 0 15px;
+            margin: 0 auto;
+          }
+          .div7 {
+            text-align: center;
+            padding: 50px 0 20px 0;
+            font-size: 1.4em;
+            font-weight: 300;
+            letter-spacing: 2px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center bottom no-repeat; 
+          }
+          .div8 {
+            width: 40%;
+            float: right;
+            height: 500px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/img1.jpg') center center;
+          }
+          .div9 {
+            width: 55%;
+            height: 500px;
+          }
+          .div10 {
+            width:370px;
+            float: left;
+            margin: 7px 10px;
+            height: 130px;
+            padding: 10px;
+            margin: 50px 10px 20px 10px;  
+          }
+          .div12 {
+            height: 130px;
+            width:370px;
+            float: left;
+            margin: 7px 10px;
+            padding: 10px;
+            margin: 50px 10px 20px 10px;
+          }
+          .div10 i {
+            font-size: 40px;
+            padding: 20px 50px 0 10px;
+            float: left;
+          }
+          .div12 i {
+            font-size: 40px;
+            padding: 20px 50px 0 10px;
+            float: left;
+          }
+          .div10 p {
+            float: right;
+            font-size: 12px;
+            font-weight: 200;
+            letter-spacing: 1px;
+            padding: 0 0 0 90px;
+            color: rgb(114, 113, 113);
+            text-align: justify;
+          }
+          .div12 p {
+            float: right;
+            font-size: 12px;
+            font-weight: 200;
+            letter-spacing: 1px;
+            padding: 0 0 0 90px;
+            color: rgb(114, 113, 113);
+            text-align: justify;
+          }
+          .div15 {
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center bottom no-repeat;
+            padding: 10px 0; 
+          }
+          #div16 {
+            border-top: 1px solid rgb(218, 218, 218);
+            height: 500px;
+          }
+          .div17 {
+            width: 50%;
+            float: left;
+            height: 500px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/img2.jpg') center center no-repeat;
+            margin-bottom: 100px;
+          }
+          .div18 {
+            background: rgba(49, 49, 49, 0.589);
+            height: 330px;
+            margin: 100px 110px;
+          }
+          .div18 i {
+            font-size: 30px;
+            margin: 20px 250px 0 250px;
+            color: white;
+            display: inline-block;
+          }
+          .div19 {
+            letter-spacing: 2px;
+            text-align: center;
+            font-size: 1.3em;
+            font-weight: 200;
+            margin: 30px 0;
+            color: white;
+          }
+          .div19 p{
+            text-align: center;
+            margin: 20px 20px 10px 20px;
+            font-size: 0.7em;
+            line-height: 20px;
+          }
+          .div20 {
+            width: 50%;
+            float: right;
+            height: 500px;
+            background: #f7f8f9;
+            margin-bottom: 100px;
+          }
+          .div21 {
+            float: left;
+            width: 30%;
+            margin: 20px 15px 10px 10px;
+            height: 150px;
+            position: relative;
+            display: table-cell;
+          }
+          .div21 i {
+            font-size: 35px;
+            padding: 20px 20px 10px 20px;
+            color: gray;
+          }
+          .div23 {
+            padding: 20px 0 20px;
+          }
+          .div24 {
+            position: relative;
+            width: 100%;
+            padding: 0 15px;
+            margin: 0 auto;
+            
+          }
+          .div25 {
+            text-align: center;
+            padding: 50px 0 20px 0;
+            font-size: 1.4em;
+            font-weight: 300;
+            letter-spacing: 2px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center bottom no-repeat; 
+          }
+          .div28 {
+            margin: 30px 15px 0 15px;
+            float: left;
+            width: 30%;
+          }
+          .div29 {
+            float: left;
+            margin: 30px 15px 0 15px;
+            width: 30%;
+          }
+          .div30 img {
+            float: left;
+            width: 33%;
+            bottom: 0;
+          }
+          .div31 {
+            width: 1000px;
+            margin: 10px 0 0 250px;
+            height: 580px;
+            position: relative;
+          }
+          .div32 {
+            width: 100%;
+            height: 300px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/parallax1.jpg') center top no-repeat;
+            background-attachment: fixed;
+            top: 0;
+            margin: 0 auto;
+            overflow: hidden;
+            position: relative;
+            background-size: cover;
+          }
+          .div33 {
+            height: 150px;
+            align-items: center;
+            margin: 110px 30px 80px 300px;
+          }
+
+          .left-content {
+            margin: 10px 0 50px 15px;
+          }
+          .left-content1 {
+            margin: 10px 0 10px 15px;
+          }
+          .right-content {
+            margin: 10px 0 45px 15px;
+          }
+          .right-content1 {
+            margin: 10px 0 10px 15px;
+          }
+          .right-content1 i {
+            font-size: 25px;
+            margin: 19px 0;
+          }
+          .right-content i {
+            font-size: 25px;
+            margin: 19px 0;
+          }
+          .right-content2 {
+            margin: 8px 0 40px 15px;
+          }
+          .right-content2 i {
+            font-size: 25px;
+            margin: 18.9px 0;
+          }
+
+          .div34 {
+            text-align: center;
+            margin-bottom: 30px;
+            position: relative;
+            color: white;
+            width: 20%;
+            float: left;
+          }
+          .div34 i {
+            font-size: 30px;
+          }
+          .div34 h3 {
+            font-weight: 700;
+            font-size: 32px;
+            margin-bottom: 10px;
+          }
+          .div34 p {
+            font-size: 12px;
+            letter-spacing: 2px;
+            color: rgb(202, 202, 202);
+          }
+          .div35 {
+            height: 1000px;
+          }
+          .div36 {
+            position: relative;
+            padding: 20px 0 20px;
+          }
+          .div37 {
+            position: relative;
+            width: 100%;
+            padding: 0 15px;
+            margin: 0 auto;
+          }
+          .div38 {
+            text-align: center;
+            padding: 50px 0 20px 0;
+            font-size: 1.4em;
+            font-weight: 300;
+            letter-spacing: 2px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center bottom no-repeat; 
+          }
+          .div39 {
+            height: 200px;
+            position: relative;
+          }
+          .div40 {
+            position: relative;
+            padding: 60px 0 20px;
+          }
+          .div41 {
+            position: relative;
+            width: 100%;
+            padding: 0 15px;
+            margin: 0 auto;
+          }
+          .div42 {
+            text-align: center;
+            padding: 50px 0 20px 0;
+            font-size: 1.4em;
+            font-weight: 300;
+            letter-spacing: 2px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center bottom no-repeat; 
+          }
+          .div43 {
+            float: left;
+            width: 35%;
+            margin: 50px 20px 50px 210px;
+            position: relative;
+            background: white;
+          }
+          .div44 {
+            float: left;
+            width: 35%;
+            margin: 50px 180px 50px 20px;
+            position: relative;
+            background: white;
+          }
+          .div45 {
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center center no-repeat;
+            margin: 250px 0 30px 0;
+          }
+          .div46 {
+            top: 0;
+            left: 230px;
+            transform: translate(-50% -50%);
+            width: 100%;
+            position: relative;
+            width: 1100px;
+          }
+          .div47 {
+            float: left;
+            width: 29%;
+            margin: 30px 10px 50px 20px;
+            border: 1px solid rgb(219, 219, 219);
+            text-align: center;
+            height: 550px;
+          }
+          .div47:hover {
+            box-shadow:5px 5px 20px 5px rgb(170, 170, 170);
+            transition: all 0.3s ease-in;
+          }
+          .div47:hover .b4 {
+            background: black;
+            color: white;
+            transition: all 0.5s ease-out;
+          }
+          .div48 {
+              width: 110px;
+              height: 110px;
+              position: relative;
+              background: #fff;
+              border-radius: 50%;
+              border: 1px solid #eee;
+              margin: 0 110px;
+              box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+              display: block;
+          }
+          .div49 {
+            text-align: center;
+            margin: 20px 0;
+          }
+          .div50 {
+            margin-top: 700px;
+            position: relative;
+            background: #f7f8f9;
+            padding: 10px 0 20px;
+          }
+          .div51 {
+            position: relative;
+            width: 100%;
+            padding: 0 15px;
+            margin: 0 auto;
+          }
+          .div52 {
+            text-align: center;
+            padding: 30px 0 20px 0;
+            font-size: 1.4em;
+            font-weight: 300;
+            letter-spacing: 2px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/kand1.png') center bottom no-repeat;
+          }
+          .div53 {
+            position: relative;
+            height: 530px;
+            background: #eaeaea;
+          }
+          .div55 {
+            float: left;
+            width: 50%;
+          }
+          .div55 figure {
+            width: 50%;
+            float: left;
+            position: relative;
+          }
+          .div55 > figure > img {
+            position: relative;
+            width: 100%;
+          }
+          .div55 figure em {
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/arrow1.png') 0 0 no-repeat;
+            width: 25px;
+            height: 50px;
+            display: block;
+            position: absolute;
+            right: 0;
+            top: 30%;
+            margin-top: 25px;
+          }
+          figure {
+            margin: 0;
+          }
+          .div56 {
+            float: left;
+            width: 50%;            
+          }
+          .div57 {
+            float: right;
+            width: 50%;
+            padding: 20px 20px 0px 30px;
+          }
+          .div58 {
+            float: left;
+            width: 50%;
+          }
+          .div58 figure {
+            width: 50%;
+            float: right;
+            position: relative;
+          }
+          .div58 > figure > img {
+            position: relative;
+            width: 100%;
+          }
+          .div58 figure em {
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/arrow2.png') 0 0 no-repeat;
+            width: 25px;
+            height: 50px;
+            display: block;
+            position: absolute;
+            left: 0;
+            top: 30%;
+            margin-top: 25px;
+          }
+          figure {
+            margin: 0;
+          }
+          .div59 {
+            float: right;
+            width: 50%;
+            padding: 20px 20px 0px 30px;
+          }
+          .div60 {
+            height: 45vh;
+            background: #111;
+            color: #999;
+            line-height: 1.6;
+            min-width: 300px;
+            position: relative;
+            padding: 60px 0 30px 150px;
+          }
+          .div61 {
+            float: left;
+            width: 22%;
+            position: relative;
+            padding: 0 15px;
+            margin: 0;
+          }
+          .div62 {
+            margin: 0 0 40px 0;
+          }
+          .end {
+            display: block;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+          }
+          .end li {
+            display: inline-block;
+            margin: 30px 2px;
+            width: 35px;
+            height: 35px;
+          }
+          .end li a {
+            color: #aaa;
+            font-size: 10px;
+            text-align: center;
+            border: 1px solid #858585;
+            padding: 5px 6px;
+            
+          }
+          .end li a:hover {
+            transition: all 0.4s ease-out;
+            border: 1px solid white;
+            color: white;
+          }
+          .end2 {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            font-family: 'Times New Roman', Times, serif;
+          }
+          .end2 li {
+            display: block;
+          }
+          .end2 li a {
+            text-decoration: none;
+            color: #999;
+            font-size: 15px;
+          }
+          .end2 li a:hover {
+            border-bottom: 1px solid white;
+            color: white;
+            transition: all 0.3s ease-out;
+          }
+          .div63 {
+            margin: 0 0 15px 0;
+            display: block;
+            font-family: 'Times New Roman', Times, serif;
+          }
+          .div63 i {
+            margin-right: 20px;
+            font-size: 20px;
+            display: inline-block;
+          }
+          .div63:hover {
+            color: white;
+          }
+          .end3 {
+            padding: 0;
+            margin: 0;
+          }
+          .end3 li {
+            font-family: 'Times New Roman', Times, serif;
+            padding: 1px 0;
+          }
+          .end3 li a:hover {
+            color: white;
+            border-bottom: 1px solid white;
+            transition: all 0.4s ease-out;
+          }
+          .div64 {
+            background: #111;
+            color: #999;
+            border-top: 1px solid rgb(82, 82, 82);
+            height: 60px;
+            font-size: 10px;
+            letter-spacing: 2px;
+            text-align: center;
+            padding-top: 10px;
+          }
+          
+
+
+
+
+
+          /*end dives*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          /*other*/
+
+          
+          .loading {
+            position: absolute;
+            z-index: 99;
+            top: 0;
+            left: 0;
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+            background-color: #fff;
+            align-items: center;
+          }
+          .loading > img {
+            width: 200px;
+          }
+          
+
+          ::-webkit-scrollbar {
+            width: 15px;
+          }
+          ::-webkit-scrollbar-track {
+            background-color: rgb(228, 228, 228);
+            border-radius: 10px;
+          }
+          ::-webkit-scrollbar-thumb {
+            background: rgb(167, 167, 167);
+            border-radius: 50px;
+          }
+          ::-webkit-scrollbar-button {
+            visibility: hidden;
+          }
+          .slider{
+            width: 100%;
+            height: 100vh;
+            position: relative;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/bg1.jpg') center center no-repeat;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+          }
+          .slide{
+            width: 100%;
+            height: 100%;      
+            background-position: center center;
+            background-size: cover;
+            display: none;      
+            transition: 0.6s;
+          }
+          .slide1{ }
+          .slide2{ }
+          .slide3{ }
+          .slide4{ }
+
+          .slide:target{
+            display: block;      
+          }
+          .dots{
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+          }
+          .dot{
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 50%;
+          }
+          a {
+            text-decoration: none;
+          }
+          .all {
+            position: relative;
+          }
+          li, ul {
+            list-style: none;
+            box-sizing: border-box;
+          }
+          .a2 {
+            text-decoration: none;
+            padding: 10px;
+          }
+          label.logo {
+            color: rgb(255, 255, 255);
+            font-size: 1.5rem;
+            line-height: 80px;
+            padding: 10px 30px;
+            margin: 50px 0 0 100px;
+            border: 2px solid white;
+          }
+          button {
+            padding: 10px 30px;
+            border: 2px white solid;
+            color: #fff;
+            background: rgba(3, 3, 3, 0);
+          }
+          button:hover {
+            background: white;
+            color: black;
+          }
+          .wrapper {
+	          padding: 5px;
+          	max-width: 960px;
+	          width: 95%;
+	          margin: 20px auto;
+          }
+
+          .columns {
+	          display: flex;
+	          flex-flow: row wrap;
+	          margin: 5px 0;
+            text-align: center;
+          }
+
+          .column {
+	          flex: 1;
+	          margin: 2px;
+	          padding: 10px;
+          }
+
+          @media screen and (max-width: 980px) {
+            .columns .column {
+		          margin-bottom: 5px;
+              flex-basis: 40%;
+		          &:nth-last-child(2) {
+			        margin-right: 0;
+		          }
+		          &:last-child {
+			        flex-basis: 100%;
+			        margin: 0;
+		          }
+	          }
+          }
+
+          @media screen and (max-width: 680px) {
+	          .columns .column {
+		          flex-basis: 100%;
+		          margin: 0 0 5px 0;
+	          }
+          }
+
+          .logo1 i {
+            margin: 20px;
+            width: 100px;
+            height: 100px;
+            border: 1px solid gray;
+            border-radius: 50%;
+            transition: all 0.3s ease-out;
+            display: inline-block;
+            font-size: 30px;
+            line-height: 100px;
+            text-align: center;
+            color: #000;
+          }
+          
+          .b1 {
+            color: black;
+            background: rgba(0, 0, 0, 0);
+            border: 2px solid gray;
+            padding: 10px 30px;
+            margin: 20px 0;
+            font-size: 12px;
+            letter-spacing: 2px;
+          }
+          .column:hover i {
+            background: #000;
+            color:#fff;
+          }
+          .column:hover .b1 {
+            background: #000;
+            color:#fff;
+          }
+          .img1 {
+            margin: 30px 0 40px 100px;
+            
+          }
+          .img3 {
+            width: 65%;
+            margin-bottom: 40px;
+            position: absolute;
+            left: 17%;
+            transform: translate(-50% -50%);
+          }
+          .img4 {
+            margin: 30px 0 40px 200px;
+            position: absolute;
+          }
+
+          table, th, td {
+            border: 1px solid #eeeeee;
+            border-collapse: collapse;
+            text-align: center;
+            font-size: 13px;
+            align-items: center;
+            color: rgb(134, 134, 134);
+            height: 30px;
+          }
+          td:hover {
+            background: #d1d1d1;
+          }
+          
+          span {
+            color: #999;
+            font-size: 14px;
+            display: block;
+            top: 0;
+          }   
+          .b4 {
+            background: white;
+            padding: 10px 30px;
+            letter-spacing: 2px;
+            border: 1px solid #eee;
+            margin: 20px 0;
+            font-size: 12px;
+            color: rgb(68, 68, 68);
+          }
+          .a1 {
+            padding: 2px 30px 5px 0;
+            font-size: 12px;
+            letter-spacing: 1px;
+            background: url('https://template-preview.com/bootstrap-templates/black-white/Black-version/images/btn2.png') right center no-repeat;
+            font-weight: 700;
+          } 
+        .ss1 {
+            width: 100%;
+            height: 35vh;
+            position: relative;
+            overflow-x: hidden;
+            background: #f2f2f3;
+        }
+        .ss0:target {
+            opacity: 1;
+            left: 0;
+            display: block;
+        }
+        .ss0 {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-position: center center;
+            background-size: 100% 100%;
+            left: 100%;
+            opacity: 0;
+            transition: 0.6s;
+            display: none;
+        }
+        .slide5 { }
+        .slide6 { }
+        .slide7 { }
+        .bullet1-wrapper {
+            position: absolute;
+            width: 100%;
+            height: 30px;
+            bottom: 5%;
+            text-align: center;
+            z-index: 2;
+        }
+        .bullet1 {
+            width: 12px;
+            height: 12px;
+            display: inline-block;
+            background-color: #b6b7b7;
+            border-radius: 50%;
+            transition: 0.6s;
+        }
+        .bullet1:hover {
+            background-color: #000;
+        }
+        .ss1 div i {
+            display: block;
+            width: 50px;
+            height: 50px;
+            border: 1px solid #060606;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 50%;
+            margin-bottom: 20px;
+            margin-top: 50px;
+            text-align: center;
+            line-height: 48px;
+            font-size: 20px;
+        }
+        #zirmenu {
+          position: absolute;
+          top: 100%;
+          left: 0;
+          z-index: 100;
+          display: none;
+          float: right;
+          min-width: 160px;
+          padding: 5px 0;
+          font-size: 13px;
+          text-align: center;
+          list-style: none;
+          background-color: rgba(0, 0, 0, 0.788);
+          border: 1px solid #ccc;
+          border: 1px solid rgba(0,0,0,.15);
+          -webkit-box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+          box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+        }
+        #zirmenu li:hover {
+          background: white;
+          transition: all 0.6s ease-out;
+        }
+        #zirmenu li a:hover {
+          color: black;
+          border-bottom: 1px solid black;
+        }
+        #zirmenu li {
+          margin: 0;
+        }
+        #nav1 ul {
+          list-style:none;
+          position:relative;
+          float:right;
+          margin:0;
+          padding:0
+        }
+        #nav1 ul li {
+          position:relative;
+          float:right;
+        }
+        #nav1 ul ul {
+          display:none;
+          position:absolute;
+        }
+        #nav1 ul ul li {
+          float:none;
+        }
+        #nav1 ul ul a {
+          line-height:100%;
+        }
+        #nav1 ul li:hover > ul {
+          display:block
+        }
+        .logo2 {
+          border: 2px solid white;
+          display: inline;
+          padding: 10px 20px;
+          color: white;
+          
+        }
+          
+          
+          
